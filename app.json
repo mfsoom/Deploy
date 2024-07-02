@@ -8,12 +8,12 @@
   "success_url": "#TODO",
   "env": {
     "APP_ID": {
-      "description": "كـود أيبـي أيـدي〔 App id 〕لا تغيرهـا",
-      "value": "27455984"
+      "description": "كـود أيبـي أيـدي〔 App id 〕",
+      "value": "22312614"
     },
     "API_HASH": {
-      "description": "كـود أيبـي هـاش〔 Api hash 〕..لا تغيرهـا",
-      "value": "62d5f68ce2e9189636967120220f5755"
+      "description": "كـود أيبـي هـاش〔 Api hash 〕..",
+      "value": "49734c34496c747596c6e5ddb1984602"
     },
     "STRING_SESSION": {
       "description": "كـــود تيـــرمكـــس - الكـود الكبيـر مـن بـوت تيرمكــس",
